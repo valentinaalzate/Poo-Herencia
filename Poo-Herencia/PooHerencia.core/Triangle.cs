@@ -38,7 +38,7 @@ namespace PooHerencia.core
         {
             if (c <= 0)
             {
-                throw new Exception($"El cateto {c} debe ser mayor que cero.");
+                throw new Exception($"The side {c} must be greater than zero");
             }
             return c;
         }
