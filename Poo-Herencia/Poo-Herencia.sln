@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poo", "Poo\Poo.csproj", "{0254A4DB-D2A7-4E23-B5B7-F7A9FF0EEFC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooHerencia.core", "PooHerencia.core\PooHerencia.core.csproj", "{FFF0E4EF-755D-46A9-B404-BC3DDA344F9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooInheritance.core", "PooHerencia.core\PooInheritance.core.csproj", "{FFF0E4EF-755D-46A9-B404-BC3DDA344F9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

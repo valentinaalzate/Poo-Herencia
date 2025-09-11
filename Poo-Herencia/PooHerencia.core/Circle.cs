@@ -38,7 +38,7 @@ namespace PooHerencia.core
         {
             if (r < 0)
             {
-                throw new Exception($"El radio {r} debe ser mayor a cero.");
+                throw new Exception($"The radius {r} must be greater than zero");
             }
             return r;
         }
