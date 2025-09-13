@@ -36,7 +36,7 @@ namespace PooHerencia.core
 
         private double ValidateC(double c)
         {
-            if (c <= 0)
+            if (c < 0)
             {
                 throw new Exception($"The side {c} must be greater than zero");
             }
